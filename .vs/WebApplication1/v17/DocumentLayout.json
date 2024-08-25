@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SAMAYOA\\source\\repos\\WebApplication1\\2FA_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93BB237C-C22C-4EAE-97D0-B9C07F32C5A7}|WebApplication1\\WebApplication1.csproj|c:\\users\\samayoa\\source\\repos\\webapplication1\\2fa_api\\webapplication1\\webapplication1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{93BB237C-C22C-4EAE-97D0-B9C07F32C5A7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BB237C-C22C-4EAE-97D0-B9C07F32C5A7}|WebApplication1\\WebApplication1.csproj|c:\\users\\samayoa\\source\\repos\\webapplication1\\2fa_api\\webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{93BB237C-C22C-4EAE-97D0-B9C07F32C5A7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BB237C-C22C-4EAE-97D0-B9C07F32C5A7}|WebApplication1\\WebApplication1.csproj|c:\\users\\samayoa\\source\\repos\\webapplication1\\2fa_api\\webapplication1\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BB237C-C22C-4EAE-97D0-B9C07F32C5A7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BB237C-C22C-4EAE-97D0-B9C07F32C5A7}|WebApplication1\\WebApplication1.csproj|c:\\users\\samayoa\\source\\repos\\webapplication1\\2fa_api\\webapplication1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BB237C-C22C-4EAE-97D0-B9C07F32C5A7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BB237C-C22C-4EAE-97D0-B9C07F32C5A7}|WebApplication1\\WebApplication1.csproj|c:\\users\\samayoa\\source\\repos\\webapplication1\\2fa_api\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BB237C-C22C-4EAE-97D0-B9C07F32C5A7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BB237C-C22C-4EAE-97D0-B9C07F32C5A7}|WebApplication1\\WebApplication1.csproj|c:\\users\\samayoa\\source\\repos\\webapplication1\\2fa_api\\webapplication1\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BB237C-C22C-4EAE-97D0-B9C07F32C5A7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BB237C-C22C-4EAE-97D0-B9C07F32C5A7}|WebApplication1\\WebApplication1.csproj|c:\\users\\samayoa\\source\\repos\\webapplication1\\2fa_api\\webapplication1\\dtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BB237C-C22C-4EAE-97D0-B9C07F32C5A7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BB237C-C22C-4EAE-97D0-B9C07F32C5A7}|WebApplication1\\WebApplication1.csproj|c:\\users\\samayoa\\source\\repos\\webapplication1\\2fa_api\\webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BB237C-C22C-4EAE-97D0-B9C07F32C5A7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 341,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:323948898:0:{81164725-9a96-4ece-a4cb-440d8fd285e5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebApplication1",
+              "DocumentMoniker": "C:\\Users\\SAMAYOA\\source\\repos\\WebApplication1\\2FA_API\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\SAMAYOA\\source\\repos\\WebApplication1\\2FA_API\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-25T03:54:41.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\SAMAYOA\\source\\repos\\WebApplication1\\2FA_API\\WebApplication1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\SAMAYOA\\source\\repos\\WebApplication1\\2FA_API\\WebApplication1\\appsettings.Development.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-25T02:47:05.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\SAMAYOA\\source\\repos\\WebApplication1\\2FA_API\\WebApplication1\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\SAMAYOA\\source\\repos\\WebApplication1\\2FA_API\\WebApplication1\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T01:49:50.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\SAMAYOA\\source\\repos\\WebApplication1\\2FA_API\\WebApplication1\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\SAMAYOA\\source\\repos\\WebApplication1\\2FA_API\\WebApplication1\\Services\\EmailService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\EmailService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T21:47:54.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SAMAYOA\\source\\repos\\WebApplication1\\2FA_API\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\SAMAYOA\\source\\repos\\WebApplication1\\2FA_API\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T20:32:18.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\SAMAYOA\\source\\repos\\WebApplication1\\2FA_API\\WebApplication1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\SAMAYOA\\source\\repos\\WebApplication1\\2FA_API\\WebApplication1\\Models\\User.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T16:52:21.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TokenDTO.cs",
+              "DocumentMoniker": "C:\\Users\\SAMAYOA\\source\\repos\\WebApplication1\\2FA_API\\WebApplication1\\DTOs\\TokenDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTOs\\TokenDTO.cs",
+              "ToolTip": "C:\\Users\\SAMAYOA\\source\\repos\\WebApplication1\\2FA_API\\WebApplication1\\DTOs\\TokenDTO.cs",
+              "RelativeToolTip": "WebApplication1\\DTOs\\TokenDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T16:50:56.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\SAMAYOA\\source\\repos\\WebApplication1\\2FA_API\\WebApplication1\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\SAMAYOA\\source\\repos\\WebApplication1\\2FA_API\\WebApplication1\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\UserController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwD4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T16:46:32.128Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
